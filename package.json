@@ -1,0 +1,23 @@
+{
+  "name": "chessboard",
+  "version": "1.0.0",
+  "description": "ChessBoard Project",
+  "main": "Chessboard_S01-S02.js",
+  "dependencies": {
+    "json": "^9.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tammamabourshaid/Chessboard.git"
+  },
+  "author": "Tammam Abou Rshaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tammamabourshaid/Chessboard/issues"
+  },
+  "homepage": "https://github.com/tammamabourshaid/Chessboard#readme"
+}
